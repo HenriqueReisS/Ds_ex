@@ -1,3 +1,5 @@
+'''
+
 Linguagem: Phyton
 
 Enunciado:
@@ -10,6 +12,8 @@ que dado um total de anos de estudo retorna o quão experiente o usuário é.
 // De 7 acima: Jedi Master
 
 Algorítimo:
+
+'''
 def experiencia(idade):
     if (idade < 2):
         print("Iniciante")
